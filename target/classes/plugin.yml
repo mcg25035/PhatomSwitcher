@@ -1,0 +1,7 @@
+main: dev.codingbear.spigot.phantom_switcher.App
+name: PhantomSwitcher
+version: 1.0
+commands:
+  ps:
+    description: You can decide that is phantoms alive 10 blocks from you .
+    usage: /ps <on|off>
