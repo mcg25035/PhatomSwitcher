@@ -1,9 +1,9 @@
 # <img src="https://media.discordapp.net/attachments/763787703958372402/997344276998541423/unknown.png" width=48> **PhatomSwitcher**
 <br>
 ❕本 README.md 是在专案完成 (2022/05/26) 过后补上的. 
-&nbsp;
 
 <br>
+&nbsp;
 
 🌐 README 语言
 >&emsp;&nbsp;[　]　[English](https://github.com/mcg25035/PhatomSwitcher/blob/master/README.md)<br>
